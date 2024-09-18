@@ -1,0 +1,922 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Ph\u00E1t tri\u1EC3n ph\u1EA7n m\u1EC1m h\u01B0\u1EDBng d\u1ECBch v\u1EE5\\125211_10121210_DOTHANHLONG_BTL\\125211_10121210_DoThanhLong_BTL\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F1019066-53E6-40FC-B58B-89181553DCBD}|Model\\Model.csproj|e:\\ph\u00E1t tri\u1EC3n ph\u1EA7n m\u1EC1m h\u01B0\u1EDBng d\u1ECBch v\u1EE5\\125211_10121210_dothanhlong_btl\\125211_10121210_dothanhlong_btl\\model\\accountmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1019066-53E6-40FC-B58B-89181553DCBD}|Model\\Model.csproj|solutionrelative:model\\accountmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{333775EB-9133-4342-9C97-DCD9048FD625}|API_BTL_LCN\\API_BTL_LCN.csproj|e:\\ph\u00E1t tri\u1EC3n ph\u1EA7n m\u1EC1m h\u01B0\u1EDBng d\u1ECBch v\u1EE5\\125211_10121210_dothanhlong_btl\\125211_10121210_dothanhlong_btl\\api_btl_lcn\\controllers\\khcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{333775EB-9133-4342-9C97-DCD9048FD625}|API_BTL_LCN\\API_BTL_LCN.csproj|solutionrelative:api_btl_lcn\\controllers\\khcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{333775EB-9133-4342-9C97-DCD9048FD625}|API_BTL_LCN\\API_BTL_LCN.csproj|e:\\ph\u00E1t tri\u1EC3n ph\u1EA7n m\u1EC1m h\u01B0\u1EDBng d\u1ECBch v\u1EE5\\125211_10121210_dothanhlong_btl\\125211_10121210_dothanhlong_btl\\api_btl_lcn\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{333775EB-9133-4342-9C97-DCD9048FD625}|API_BTL_LCN\\API_BTL_LCN.csproj|solutionrelative:api_btl_lcn\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C169D3C2-906D-47EB-B090-8F2B0BF7DD7F}|DAL\\DAL.csproj|e:\\ph\u00E1t tri\u1EC3n ph\u1EA7n m\u1EC1m h\u01B0\u1EDBng d\u1ECBch v\u1EE5\\125211_10121210_dothanhlong_btl\\125211_10121210_dothanhlong_btl\\dal\\spresponsitory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C169D3C2-906D-47EB-B090-8F2B0BF7DD7F}|DAL\\DAL.csproj|solutionrelative:dal\\spresponsitory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD6B4B-7EB8-45FE-B9C4-7B08A275A8A0}|BUS\\BUS.csproj|e:\\ph\u00E1t tri\u1EC3n ph\u1EA7n m\u1EC1m h\u01B0\u1EDBng d\u1ECBch v\u1EE5\\125211_10121210_dothanhlong_btl\\125211_10121210_dothanhlong_btl\\bus\\spbus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD6B4B-7EB8-45FE-B9C4-7B08A275A8A0}|BUS\\BUS.csproj|solutionrelative:bus\\spbus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD6B4B-7EB8-45FE-B9C4-7B08A275A8A0}|BUS\\BUS.csproj|e:\\ph\u00E1t tri\u1EC3n ph\u1EA7n m\u1EC1m h\u01B0\u1EDBng d\u1ECBch v\u1EE5\\125211_10121210_dothanhlong_btl\\125211_10121210_dothanhlong_btl\\bus\\hdnbus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD6B4B-7EB8-45FE-B9C4-7B08A275A8A0}|BUS\\BUS.csproj|solutionrelative:bus\\hdnbus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD6B4B-7EB8-45FE-B9C4-7B08A275A8A0}|BUS\\BUS.csproj|e:\\ph\u00E1t tri\u1EC3n ph\u1EA7n m\u1EC1m h\u01B0\u1EDBng d\u1ECBch v\u1EE5\\125211_10121210_dothanhlong_btl\\125211_10121210_dothanhlong_btl\\bus\\hdbbus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD6B4B-7EB8-45FE-B9C4-7B08A275A8A0}|BUS\\BUS.csproj|solutionrelative:bus\\hdbbus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1019066-53E6-40FC-B58B-89181553DCBD}|Model\\Model.csproj|e:\\ph\u00E1t tri\u1EC3n ph\u1EA7n m\u1EC1m h\u01B0\u1EDBng d\u1ECBch v\u1EE5\\125211_10121210_dothanhlong_btl\\125211_10121210_dothanhlong_btl\\model\\hdnmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1019066-53E6-40FC-B58B-89181553DCBD}|Model\\Model.csproj|solutionrelative:model\\hdnmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{333775EB-9133-4342-9C97-DCD9048FD625}|API_BTL_LCN\\API_BTL_LCN.csproj|e:\\ph\u00E1t tri\u1EC3n ph\u1EA7n m\u1EC1m h\u01B0\u1EDBng d\u1ECBch v\u1EE5\\125211_10121210_dothanhlong_btl\\125211_10121210_dothanhlong_btl\\api_btl_lcn\\controllers\\hdncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{333775EB-9133-4342-9C97-DCD9048FD625}|API_BTL_LCN\\API_BTL_LCN.csproj|solutionrelative:api_btl_lcn\\controllers\\hdncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{333775EB-9133-4342-9C97-DCD9048FD625}|API_BTL_LCN\\API_BTL_LCN.csproj|e:\\ph\u00E1t tri\u1EC3n ph\u1EA7n m\u1EC1m h\u01B0\u1EDBng d\u1ECBch v\u1EE5\\125211_10121210_dothanhlong_btl\\125211_10121210_dothanhlong_btl\\api_btl_lcn\\controllers\\hdbcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{333775EB-9133-4342-9C97-DCD9048FD625}|API_BTL_LCN\\API_BTL_LCN.csproj|solutionrelative:api_btl_lcn\\controllers\\hdbcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{333775EB-9133-4342-9C97-DCD9048FD625}|API_BTL_LCN\\API_BTL_LCN.csproj|e:\\ph\u00E1t tri\u1EC3n ph\u1EA7n m\u1EC1m h\u01B0\u1EDBng d\u1ECBch v\u1EE5\\125211_10121210_dothanhlong_btl\\125211_10121210_dothanhlong_btl\\api_btl_lcn\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{333775EB-9133-4342-9C97-DCD9048FD625}|API_BTL_LCN\\API_BTL_LCN.csproj|solutionrelative:api_btl_lcn\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD6B4B-7EB8-45FE-B9C4-7B08A275A8A0}|BUS\\BUS.csproj|e:\\ph\u00E1t tri\u1EC3n ph\u1EA7n m\u1EC1m h\u01B0\u1EDBng d\u1ECBch v\u1EE5\\125211_10121210_dothanhlong_btl\\125211_10121210_dothanhlong_btl\\bus\\interfaces\\i_hdnbus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD6B4B-7EB8-45FE-B9C4-7B08A275A8A0}|BUS\\BUS.csproj|solutionrelative:bus\\interfaces\\i_hdnbus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD6B4B-7EB8-45FE-B9C4-7B08A275A8A0}|BUS\\BUS.csproj|e:\\ph\u00E1t tri\u1EC3n ph\u1EA7n m\u1EC1m h\u01B0\u1EDBng d\u1ECBch v\u1EE5\\125211_10121210_dothanhlong_btl\\125211_10121210_dothanhlong_btl\\bus\\interfaces\\i_hdbbus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD6B4B-7EB8-45FE-B9C4-7B08A275A8A0}|BUS\\BUS.csproj|solutionrelative:bus\\interfaces\\i_hdbbus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C169D3C2-906D-47EB-B090-8F2B0BF7DD7F}|DAL\\DAL.csproj|e:\\ph\u00E1t tri\u1EC3n ph\u1EA7n m\u1EC1m h\u01B0\u1EDBng d\u1ECBch v\u1EE5\\125211_10121210_dothanhlong_btl\\125211_10121210_dothanhlong_btl\\dal\\interfaces\\i_hdnresponsitory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C169D3C2-906D-47EB-B090-8F2B0BF7DD7F}|DAL\\DAL.csproj|solutionrelative:dal\\interfaces\\i_hdnresponsitory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C169D3C2-906D-47EB-B090-8F2B0BF7DD7F}|DAL\\DAL.csproj|e:\\ph\u00E1t tri\u1EC3n ph\u1EA7n m\u1EC1m h\u01B0\u1EDBng d\u1ECBch v\u1EE5\\125211_10121210_dothanhlong_btl\\125211_10121210_dothanhlong_btl\\dal\\interfaces\\i_hdbresponsitory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C169D3C2-906D-47EB-B090-8F2B0BF7DD7F}|DAL\\DAL.csproj|solutionrelative:dal\\interfaces\\i_hdbresponsitory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C169D3C2-906D-47EB-B090-8F2B0BF7DD7F}|DAL\\DAL.csproj|e:\\ph\u00E1t tri\u1EC3n ph\u1EA7n m\u1EC1m h\u01B0\u1EDBng d\u1ECBch v\u1EE5\\125211_10121210_dothanhlong_btl\\125211_10121210_dothanhlong_btl\\dal\\hdnresponsitory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C169D3C2-906D-47EB-B090-8F2B0BF7DD7F}|DAL\\DAL.csproj|solutionrelative:dal\\hdnresponsitory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C169D3C2-906D-47EB-B090-8F2B0BF7DD7F}|DAL\\DAL.csproj|e:\\ph\u00E1t tri\u1EC3n ph\u1EA7n m\u1EC1m h\u01B0\u1EDBng d\u1ECBch v\u1EE5\\125211_10121210_dothanhlong_btl\\125211_10121210_dothanhlong_btl\\dal\\hdbresponsitory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C169D3C2-906D-47EB-B090-8F2B0BF7DD7F}|DAL\\DAL.csproj|solutionrelative:dal\\hdbresponsitory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C169D3C2-906D-47EB-B090-8F2B0BF7DD7F}|DAL\\DAL.csproj|e:\\ph\u00E1t tri\u1EC3n ph\u1EA7n m\u1EC1m h\u01B0\u1EDBng d\u1ECBch v\u1EE5\\125211_10121210_dothanhlong_btl\\125211_10121210_dothanhlong_btl\\dal\\khresponsitory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C169D3C2-906D-47EB-B090-8F2B0BF7DD7F}|DAL\\DAL.csproj|solutionrelative:dal\\khresponsitory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1019066-53E6-40FC-B58B-89181553DCBD}|Model\\Model.csproj|e:\\ph\u00E1t tri\u1EC3n ph\u1EA7n m\u1EC1m h\u01B0\u1EDBng d\u1ECBch v\u1EE5\\125211_10121210_dothanhlong_btl\\125211_10121210_dothanhlong_btl\\model\\hdbmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1019066-53E6-40FC-B58B-89181553DCBD}|Model\\Model.csproj|solutionrelative:model\\hdbmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C169D3C2-906D-47EB-B090-8F2B0BF7DD7F}|DAL\\DAL.csproj|e:\\ph\u00E1t tri\u1EC3n ph\u1EA7n m\u1EC1m h\u01B0\u1EDBng d\u1ECBch v\u1EE5\\125211_10121210_dothanhlong_btl\\125211_10121210_dothanhlong_btl\\dal\\interfaces\\i_accountrespository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C169D3C2-906D-47EB-B090-8F2B0BF7DD7F}|DAL\\DAL.csproj|solutionrelative:dal\\interfaces\\i_accountrespository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C169D3C2-906D-47EB-B090-8F2B0BF7DD7F}|DAL\\DAL.csproj|e:\\ph\u00E1t tri\u1EC3n ph\u1EA7n m\u1EC1m h\u01B0\u1EDBng d\u1ECBch v\u1EE5\\125211_10121210_dothanhlong_btl\\125211_10121210_dothanhlong_btl\\dal\\helper\\collectionhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C169D3C2-906D-47EB-B090-8F2B0BF7DD7F}|DAL\\DAL.csproj|solutionrelative:dal\\helper\\collectionhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{333775EB-9133-4342-9C97-DCD9048FD625}|API_BTL_LCN\\API_BTL_LCN.csproj|e:\\ph\u00E1t tri\u1EC3n ph\u1EA7n m\u1EC1m h\u01B0\u1EDBng d\u1ECBch v\u1EE5\\125211_10121210_dothanhlong_btl\\125211_10121210_dothanhlong_btl\\api_btl_lcn\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{333775EB-9133-4342-9C97-DCD9048FD625}|API_BTL_LCN\\API_BTL_LCN.csproj|solutionrelative:api_btl_lcn\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD6B4B-7EB8-45FE-B9C4-7B08A275A8A0}|BUS\\BUS.csproj|e:\\ph\u00E1t tri\u1EC3n ph\u1EA7n m\u1EC1m h\u01B0\u1EDBng d\u1ECBch v\u1EE5\\125211_10121210_dothanhlong_btl\\125211_10121210_dothanhlong_btl\\bus\\accountbus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD6B4B-7EB8-45FE-B9C4-7B08A275A8A0}|BUS\\BUS.csproj|solutionrelative:bus\\accountbus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD6B4B-7EB8-45FE-B9C4-7B08A275A8A0}|BUS\\BUS.csproj|e:\\ph\u00E1t tri\u1EC3n ph\u1EA7n m\u1EC1m h\u01B0\u1EDBng d\u1ECBch v\u1EE5\\125211_10121210_dothanhlong_btl\\125211_10121210_dothanhlong_btl\\bus\\interfaces\\i_accountbus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD6B4B-7EB8-45FE-B9C4-7B08A275A8A0}|BUS\\BUS.csproj|solutionrelative:bus\\interfaces\\i_accountbus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C169D3C2-906D-47EB-B090-8F2B0BF7DD7F}|DAL\\DAL.csproj|e:\\ph\u00E1t tri\u1EC3n ph\u1EA7n m\u1EC1m h\u01B0\u1EDBng d\u1ECBch v\u1EE5\\125211_10121210_dothanhlong_btl\\125211_10121210_dothanhlong_btl\\dal\\accountresponsitory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C169D3C2-906D-47EB-B090-8F2B0BF7DD7F}|DAL\\DAL.csproj|solutionrelative:dal\\accountresponsitory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C169D3C2-906D-47EB-B090-8F2B0BF7DD7F}|DAL\\DAL.csproj|e:\\ph\u00E1t tri\u1EC3n ph\u1EA7n m\u1EC1m h\u01B0\u1EDBng d\u1ECBch v\u1EE5\\125211_10121210_dothanhlong_btl\\125211_10121210_dothanhlong_btl\\dal\\helper\\databasehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C169D3C2-906D-47EB-B090-8F2B0BF7DD7F}|DAL\\DAL.csproj|solutionrelative:dal\\helper\\databasehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{333775EB-9133-4342-9C97-DCD9048FD625}|API_BTL_LCN\\API_BTL_LCN.csproj|e:\\ph\u00E1t tri\u1EC3n ph\u1EA7n m\u1EC1m h\u01B0\u1EDBng d\u1ECBch v\u1EE5\\125211_10121210_dothanhlong_btl\\125211_10121210_dothanhlong_btl\\api_btl_lcn\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{333775EB-9133-4342-9C97-DCD9048FD625}|API_BTL_LCN\\API_BTL_LCN.csproj|solutionrelative:api_btl_lcn\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C169D3C2-906D-47EB-B090-8F2B0BF7DD7F}|DAL\\DAL.csproj|e:\\ph\u00E1t tri\u1EC3n ph\u1EA7n m\u1EC1m h\u01B0\u1EDBng d\u1ECBch v\u1EE5\\125211_10121210_dothanhlong_btl\\125211_10121210_dothanhlong_btl\\dal\\helper\\interfaces\\idatabasehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C169D3C2-906D-47EB-B090-8F2B0BF7DD7F}|DAL\\DAL.csproj|solutionrelative:dal\\helper\\interfaces\\idatabasehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD6B4B-7EB8-45FE-B9C4-7B08A275A8A0}|BUS\\BUS.csproj|e:\\ph\u00E1t tri\u1EC3n ph\u1EA7n m\u1EC1m h\u01B0\u1EDBng d\u1ECBch v\u1EE5\\125211_10121210_dothanhlong_btl\\125211_10121210_dothanhlong_btl\\bus\\bus.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B4CD6B4B-7EB8-45FE-B9C4-7B08A275A8A0}|BUS\\BUS.csproj|solutionrelative:bus\\bus.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1019066-53E6-40FC-B58B-89181553DCBD}|Model\\Model.csproj|e:\\ph\u00E1t tri\u1EC3n ph\u1EA7n m\u1EC1m h\u01B0\u1EDBng d\u1ECBch v\u1EE5\\125211_10121210_dothanhlong_btl\\125211_10121210_dothanhlong_btl\\model\\loaispmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1019066-53E6-40FC-B58B-89181553DCBD}|Model\\Model.csproj|solutionrelative:model\\loaispmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{333775EB-9133-4342-9C97-DCD9048FD625}|API_BTL_LCN\\API_BTL_LCN.csproj|e:\\ph\u00E1t tri\u1EC3n ph\u1EA7n m\u1EC1m h\u01B0\u1EDBng d\u1ECBch v\u1EE5\\125211_10121210_dothanhlong_btl\\125211_10121210_dothanhlong_btl\\api_btl_lcn\\controllers\\loaispcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{333775EB-9133-4342-9C97-DCD9048FD625}|API_BTL_LCN\\API_BTL_LCN.csproj|solutionrelative:api_btl_lcn\\controllers\\loaispcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C169D3C2-906D-47EB-B090-8F2B0BF7DD7F}|DAL\\DAL.csproj|e:\\ph\u00E1t tri\u1EC3n ph\u1EA7n m\u1EC1m h\u01B0\u1EDBng d\u1ECBch v\u1EE5\\125211_10121210_dothanhlong_btl\\125211_10121210_dothanhlong_btl\\dal\\loaispresponsitory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C169D3C2-906D-47EB-B090-8F2B0BF7DD7F}|DAL\\DAL.csproj|solutionrelative:dal\\loaispresponsitory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{333775EB-9133-4342-9C97-DCD9048FD625}|API_BTL_LCN\\API_BTL_LCN.csproj|e:\\ph\u00E1t tri\u1EC3n ph\u1EA7n m\u1EC1m h\u01B0\u1EDBng d\u1ECBch v\u1EE5\\125211_10121210_dothanhlong_btl\\125211_10121210_dothanhlong_btl\\api_btl_lcn\\controllers\\spcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{333775EB-9133-4342-9C97-DCD9048FD625}|API_BTL_LCN\\API_BTL_LCN.csproj|solutionrelative:api_btl_lcn\\controllers\\spcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C169D3C2-906D-47EB-B090-8F2B0BF7DD7F}|DAL\\DAL.csproj|e:\\ph\u00E1t tri\u1EC3n ph\u1EA7n m\u1EC1m h\u01B0\u1EDBng d\u1ECBch v\u1EE5\\125211_10121210_dothanhlong_btl\\125211_10121210_dothanhlong_btl\\dal\\nvresponsitory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C169D3C2-906D-47EB-B090-8F2B0BF7DD7F}|DAL\\DAL.csproj|solutionrelative:dal\\nvresponsitory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD6B4B-7EB8-45FE-B9C4-7B08A275A8A0}|BUS\\BUS.csproj|e:\\ph\u00E1t tri\u1EC3n ph\u1EA7n m\u1EC1m h\u01B0\u1EDBng d\u1ECBch v\u1EE5\\125211_10121210_dothanhlong_btl\\125211_10121210_dothanhlong_btl\\bus\\loaispbus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD6B4B-7EB8-45FE-B9C4-7B08A275A8A0}|BUS\\BUS.csproj|solutionrelative:bus\\loaispbus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD6B4B-7EB8-45FE-B9C4-7B08A275A8A0}|BUS\\BUS.csproj|e:\\ph\u00E1t tri\u1EC3n ph\u1EA7n m\u1EC1m h\u01B0\u1EDBng d\u1ECBch v\u1EE5\\125211_10121210_dothanhlong_btl\\125211_10121210_dothanhlong_btl\\bus\\interfaces\\i_loaispbus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD6B4B-7EB8-45FE-B9C4-7B08A275A8A0}|BUS\\BUS.csproj|solutionrelative:bus\\interfaces\\i_loaispbus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD6B4B-7EB8-45FE-B9C4-7B08A275A8A0}|BUS\\BUS.csproj|e:\\ph\u00E1t tri\u1EC3n ph\u1EA7n m\u1EC1m h\u01B0\u1EDBng d\u1ECBch v\u1EE5\\125211_10121210_dothanhlong_btl\\125211_10121210_dothanhlong_btl\\bus\\nvbus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD6B4B-7EB8-45FE-B9C4-7B08A275A8A0}|BUS\\BUS.csproj|solutionrelative:bus\\nvbus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C169D3C2-906D-47EB-B090-8F2B0BF7DD7F}|DAL\\DAL.csproj|e:\\ph\u00E1t tri\u1EC3n ph\u1EA7n m\u1EC1m h\u01B0\u1EDBng d\u1ECBch v\u1EE5\\125211_10121210_dothanhlong_btl\\125211_10121210_dothanhlong_btl\\dal\\interfaces\\i_loaispresponsitory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C169D3C2-906D-47EB-B090-8F2B0BF7DD7F}|DAL\\DAL.csproj|solutionrelative:dal\\interfaces\\i_loaispresponsitory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD6B4B-7EB8-45FE-B9C4-7B08A275A8A0}|BUS\\BUS.csproj|e:\\ph\u00E1t tri\u1EC3n ph\u1EA7n m\u1EC1m h\u01B0\u1EDBng d\u1ECBch v\u1EE5\\125211_10121210_dothanhlong_btl\\125211_10121210_dothanhlong_btl\\bus\\interfaces\\i_nvbus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD6B4B-7EB8-45FE-B9C4-7B08A275A8A0}|BUS\\BUS.csproj|solutionrelative:bus\\interfaces\\i_nvbus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1019066-53E6-40FC-B58B-89181553DCBD}|Model\\Model.csproj|e:\\ph\u00E1t tri\u1EC3n ph\u1EA7n m\u1EC1m h\u01B0\u1EDBng d\u1ECBch v\u1EE5\\125211_10121210_dothanhlong_btl\\125211_10121210_dothanhlong_btl\\model\\model.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F1019066-53E6-40FC-B58B-89181553DCBD}|Model\\Model.csproj|solutionrelative:model\\model.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C169D3C2-906D-47EB-B090-8F2B0BF7DD7F}|DAL\\DAL.csproj|e:\\ph\u00E1t tri\u1EC3n ph\u1EA7n m\u1EC1m h\u01B0\u1EDBng d\u1ECBch v\u1EE5\\125211_10121210_dothanhlong_btl\\125211_10121210_dothanhlong_btl\\dal\\interfaces\\i_spresponsitory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C169D3C2-906D-47EB-B090-8F2B0BF7DD7F}|DAL\\DAL.csproj|solutionrelative:dal\\interfaces\\i_spresponsitory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1019066-53E6-40FC-B58B-89181553DCBD}|Model\\Model.csproj|e:\\ph\u00E1t tri\u1EC3n ph\u1EA7n m\u1EC1m h\u01B0\u1EDBng d\u1ECBch v\u1EE5\\125211_10121210_dothanhlong_btl\\125211_10121210_dothanhlong_btl\\model\\nvmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1019066-53E6-40FC-B58B-89181553DCBD}|Model\\Model.csproj|solutionrelative:model\\nvmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1019066-53E6-40FC-B58B-89181553DCBD}|Model\\Model.csproj|e:\\ph\u00E1t tri\u1EC3n ph\u1EA7n m\u1EC1m h\u01B0\u1EDBng d\u1ECBch v\u1EE5\\125211_10121210_dothanhlong_btl\\125211_10121210_dothanhlong_btl\\model\\spmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1019066-53E6-40FC-B58B-89181553DCBD}|Model\\Model.csproj|solutionrelative:model\\spmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{333775EB-9133-4342-9C97-DCD9048FD625}|API_BTL_LCN\\API_BTL_LCN.csproj|e:\\ph\u00E1t tri\u1EC3n ph\u1EA7n m\u1EC1m h\u01B0\u1EDBng d\u1ECBch v\u1EE5\\125211_10121210_dothanhlong_btl\\125211_10121210_dothanhlong_btl\\api_btl_lcn\\controllers\\nvcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{333775EB-9133-4342-9C97-DCD9048FD625}|API_BTL_LCN\\API_BTL_LCN.csproj|solutionrelative:api_btl_lcn\\controllers\\nvcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD6B4B-7EB8-45FE-B9C4-7B08A275A8A0}|BUS\\BUS.csproj|e:\\ph\u00E1t tri\u1EC3n ph\u1EA7n m\u1EC1m h\u01B0\u1EDBng d\u1ECBch v\u1EE5\\125211_10121210_dothanhlong_btl\\125211_10121210_dothanhlong_btl\\bus\\interfaces\\i_spbus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD6B4B-7EB8-45FE-B9C4-7B08A275A8A0}|BUS\\BUS.csproj|solutionrelative:bus\\interfaces\\i_spbus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C169D3C2-906D-47EB-B090-8F2B0BF7DD7F}|DAL\\DAL.csproj|e:\\ph\u00E1t tri\u1EC3n ph\u1EA7n m\u1EC1m h\u01B0\u1EDBng d\u1ECBch v\u1EE5\\125211_10121210_dothanhlong_btl\\125211_10121210_dothanhlong_btl\\dal\\interfaces\\i_nvresponsitory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C169D3C2-906D-47EB-B090-8F2B0BF7DD7F}|DAL\\DAL.csproj|solutionrelative:dal\\interfaces\\i_nvresponsitory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{333775EB-9133-4342-9C97-DCD9048FD625}|API_BTL_LCN\\API_BTL_LCN.csproj|e:\\ph\u00E1t tri\u1EC3n ph\u1EA7n m\u1EC1m h\u01B0\u1EDBng d\u1ECBch v\u1EE5\\125211_10121210_dothanhlong_btl\\125211_10121210_dothanhlong_btl\\api_btl_lcn\\controllers\\ncccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{333775EB-9133-4342-9C97-DCD9048FD625}|API_BTL_LCN\\API_BTL_LCN.csproj|solutionrelative:api_btl_lcn\\controllers\\ncccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD6B4B-7EB8-45FE-B9C4-7B08A275A8A0}|BUS\\BUS.csproj|e:\\ph\u00E1t tri\u1EC3n ph\u1EA7n m\u1EC1m h\u01B0\u1EDBng d\u1ECBch v\u1EE5\\125211_10121210_dothanhlong_btl\\125211_10121210_dothanhlong_btl\\bus\\nccbus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD6B4B-7EB8-45FE-B9C4-7B08A275A8A0}|BUS\\BUS.csproj|solutionrelative:bus\\nccbus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD6B4B-7EB8-45FE-B9C4-7B08A275A8A0}|BUS\\BUS.csproj|e:\\ph\u00E1t tri\u1EC3n ph\u1EA7n m\u1EC1m h\u01B0\u1EDBng d\u1ECBch v\u1EE5\\125211_10121210_dothanhlong_btl\\125211_10121210_dothanhlong_btl\\bus\\interfaces\\i_nccbus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD6B4B-7EB8-45FE-B9C4-7B08A275A8A0}|BUS\\BUS.csproj|solutionrelative:bus\\interfaces\\i_nccbus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C169D3C2-906D-47EB-B090-8F2B0BF7DD7F}|DAL\\DAL.csproj|e:\\ph\u00E1t tri\u1EC3n ph\u1EA7n m\u1EC1m h\u01B0\u1EDBng d\u1ECBch v\u1EE5\\125211_10121210_dothanhlong_btl\\125211_10121210_dothanhlong_btl\\dal\\nccresponsitory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C169D3C2-906D-47EB-B090-8F2B0BF7DD7F}|DAL\\DAL.csproj|solutionrelative:dal\\nccresponsitory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C169D3C2-906D-47EB-B090-8F2B0BF7DD7F}|DAL\\DAL.csproj|e:\\ph\u00E1t tri\u1EC3n ph\u1EA7n m\u1EC1m h\u01B0\u1EDBng d\u1ECBch v\u1EE5\\125211_10121210_dothanhlong_btl\\125211_10121210_dothanhlong_btl\\dal\\interfaces\\i_nccresponsitory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C169D3C2-906D-47EB-B090-8F2B0BF7DD7F}|DAL\\DAL.csproj|solutionrelative:dal\\interfaces\\i_nccresponsitory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1019066-53E6-40FC-B58B-89181553DCBD}|Model\\Model.csproj|e:\\ph\u00E1t tri\u1EC3n ph\u1EA7n m\u1EC1m h\u01B0\u1EDBng d\u1ECBch v\u1EE5\\125211_10121210_dothanhlong_btl\\125211_10121210_dothanhlong_btl\\model\\nccmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1019066-53E6-40FC-B58B-89181553DCBD}|Model\\Model.csproj|solutionrelative:model\\nccmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD6B4B-7EB8-45FE-B9C4-7B08A275A8A0}|BUS\\BUS.csproj|e:\\ph\u00E1t tri\u1EC3n ph\u1EA7n m\u1EC1m h\u01B0\u1EDBng d\u1ECBch v\u1EE5\\125211_10121210_dothanhlong_btl\\125211_10121210_dothanhlong_btl\\bus\\khbus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD6B4B-7EB8-45FE-B9C4-7B08A275A8A0}|BUS\\BUS.csproj|solutionrelative:bus\\khbus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD6B4B-7EB8-45FE-B9C4-7B08A275A8A0}|BUS\\BUS.csproj|e:\\ph\u00E1t tri\u1EC3n ph\u1EA7n m\u1EC1m h\u01B0\u1EDBng d\u1ECBch v\u1EE5\\125211_10121210_dothanhlong_btl\\125211_10121210_dothanhlong_btl\\bus\\interfaces\\i_khbus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD6B4B-7EB8-45FE-B9C4-7B08A275A8A0}|BUS\\BUS.csproj|solutionrelative:bus\\interfaces\\i_khbus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C169D3C2-906D-47EB-B090-8F2B0BF7DD7F}|DAL\\DAL.csproj|e:\\ph\u00E1t tri\u1EC3n ph\u1EA7n m\u1EC1m h\u01B0\u1EDBng d\u1ECBch v\u1EE5\\125211_10121210_dothanhlong_btl\\125211_10121210_dothanhlong_btl\\dal\\interfaces\\i_khresponsitory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C169D3C2-906D-47EB-B090-8F2B0BF7DD7F}|DAL\\DAL.csproj|solutionrelative:dal\\interfaces\\i_khresponsitory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1019066-53E6-40FC-B58B-89181553DCBD}|Model\\Model.csproj|e:\\ph\u00E1t tri\u1EC3n ph\u1EA7n m\u1EC1m h\u01B0\u1EDBng d\u1ECBch v\u1EE5\\125211_10121210_dothanhlong_btl\\125211_10121210_dothanhlong_btl\\model\\khmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1019066-53E6-40FC-B58B-89181553DCBD}|Model\\Model.csproj|solutionrelative:model\\khmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 128,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 55,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "hdnController.cs",
+              "DocumentMoniker": "E:\\Ph\u00E1t tri\u1EC3n ph\u1EA7n m\u1EC1m h\u01B0\u1EDBng d\u1ECBch v\u1EE5\\125211_10121210_DOTHANHLONG_BTL\\125211_10121210_DoThanhLong_BTL\\API_BTL_LCN\\Controllers\\hdnController.cs",
+              "RelativeDocumentMoniker": "API_BTL_LCN\\Controllers\\hdnController.cs",
+              "ToolTip": "E:\\Ph\u00E1t tri\u1EC3n ph\u1EA7n m\u1EC1m h\u01B0\u1EDBng d\u1ECBch v\u1EE5\\125211_10121210_DOTHANHLONG_BTL\\125211_10121210_DoThanhLong_BTL\\API_BTL_LCN\\Controllers\\hdnController.cs",
+              "RelativeToolTip": "API_BTL_LCN\\Controllers\\hdnController.cs",
+              "ViewState": "AQIAADkAAAAAAAAAAAAqwEAAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-10-28T03:35:47.837Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "hdnBUS.cs",
+              "DocumentMoniker": "E:\\Ph\u00E1t tri\u1EC3n ph\u1EA7n m\u1EC1m h\u01B0\u1EDBng d\u1ECBch v\u1EE5\\125211_10121210_DOTHANHLONG_BTL\\125211_10121210_DoThanhLong_BTL\\BUS\\hdnBUS.cs",
+              "RelativeDocumentMoniker": "BUS\\hdnBUS.cs",
+              "ToolTip": "E:\\Ph\u00E1t tri\u1EC3n ph\u1EA7n m\u1EC1m h\u01B0\u1EDBng d\u1ECBch v\u1EE5\\125211_10121210_DOTHANHLONG_BTL\\125211_10121210_DoThanhLong_BTL\\BUS\\hdnBUS.cs",
+              "RelativeToolTip": "BUS\\hdnBUS.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAIwDUAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-10-28T03:31:23.597Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "I_hdnBUS.cs",
+              "DocumentMoniker": "E:\\Ph\u00E1t tri\u1EC3n ph\u1EA7n m\u1EC1m h\u01B0\u1EDBng d\u1ECBch v\u1EE5\\125211_10121210_DOTHANHLONG_BTL\\125211_10121210_DoThanhLong_BTL\\BUS\\interfaces\\I_hdnBUS.cs",
+              "RelativeDocumentMoniker": "BUS\\interfaces\\I_hdnBUS.cs",
+              "ToolTip": "E:\\Ph\u00E1t tri\u1EC3n ph\u1EA7n m\u1EC1m h\u01B0\u1EDBng d\u1ECBch v\u1EE5\\125211_10121210_DOTHANHLONG_BTL\\125211_10121210_DoThanhLong_BTL\\BUS\\interfaces\\I_hdnBUS.cs",
+              "RelativeToolTip": "BUS\\interfaces\\I_hdnBUS.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-10-28T03:30:47.649Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "hdnResponsitory.cs",
+              "DocumentMoniker": "E:\\Ph\u00E1t tri\u1EC3n ph\u1EA7n m\u1EC1m h\u01B0\u1EDBng d\u1ECBch v\u1EE5\\125211_10121210_DOTHANHLONG_BTL\\125211_10121210_DoThanhLong_BTL\\DAL\\hdnResponsitory.cs",
+              "RelativeDocumentMoniker": "DAL\\hdnResponsitory.cs",
+              "ToolTip": "E:\\Ph\u00E1t tri\u1EC3n ph\u1EA7n m\u1EC1m h\u01B0\u1EDBng d\u1ECBch v\u1EE5\\125211_10121210_DOTHANHLONG_BTL\\125211_10121210_DoThanhLong_BTL\\DAL\\hdnResponsitory.cs",
+              "RelativeToolTip": "DAL\\hdnResponsitory.cs",
+              "ViewState": "AQIAAKcAAAAAAAAAAADwv60AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-10-28T03:19:52.446Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "I_hdnResponsitory.cs",
+              "DocumentMoniker": "E:\\Ph\u00E1t tri\u1EC3n ph\u1EA7n m\u1EC1m h\u01B0\u1EDBng d\u1ECBch v\u1EE5\\125211_10121210_DOTHANHLONG_BTL\\125211_10121210_DoThanhLong_BTL\\DAL\\interfaces\\I_hdnResponsitory.cs",
+              "RelativeDocumentMoniker": "DAL\\interfaces\\I_hdnResponsitory.cs",
+              "ToolTip": "E:\\Ph\u00E1t tri\u1EC3n ph\u1EA7n m\u1EC1m h\u01B0\u1EDBng d\u1ECBch v\u1EE5\\125211_10121210_DOTHANHLONG_BTL\\125211_10121210_DoThanhLong_BTL\\DAL\\interfaces\\I_hdnResponsitory.cs",
+              "RelativeToolTip": "DAL\\interfaces\\I_hdnResponsitory.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-10-28T03:17:26.655Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "hdnModel.cs",
+              "DocumentMoniker": "E:\\Ph\u00E1t tri\u1EC3n ph\u1EA7n m\u1EC1m h\u01B0\u1EDBng d\u1ECBch v\u1EE5\\125211_10121210_DOTHANHLONG_BTL\\125211_10121210_DoThanhLong_BTL\\Model\\hdnModel.cs",
+              "RelativeDocumentMoniker": "Model\\hdnModel.cs",
+              "ToolTip": "E:\\Ph\u00E1t tri\u1EC3n ph\u1EA7n m\u1EC1m h\u01B0\u1EDBng d\u1ECBch v\u1EE5\\125211_10121210_DOTHANHLONG_BTL\\125211_10121210_DoThanhLong_BTL\\Model\\hdnModel.cs",
+              "RelativeToolTip": "Model\\hdnModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-10-28T03:14:54.567Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "hdbResponsitory.cs",
+              "DocumentMoniker": "E:\\Ph\u00E1t tri\u1EC3n ph\u1EA7n m\u1EC1m h\u01B0\u1EDBng d\u1ECBch v\u1EE5\\125211_10121210_DOTHANHLONG_BTL\\125211_10121210_DoThanhLong_BTL\\DAL\\hdbResponsitory.cs",
+              "RelativeDocumentMoniker": "DAL\\hdbResponsitory.cs",
+              "ToolTip": "E:\\Ph\u00E1t tri\u1EC3n ph\u1EA7n m\u1EC1m h\u01B0\u1EDBng d\u1ECBch v\u1EE5\\125211_10121210_DOTHANHLONG_BTL\\125211_10121210_DoThanhLong_BTL\\DAL\\hdbResponsitory.cs",
+              "RelativeToolTip": "DAL\\hdbResponsitory.cs",
+              "ViewState": "AQIAAK0AAAAAAAAAAAAcwLUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-10-28T02:23:44.871Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "hdbController.cs",
+              "DocumentMoniker": "E:\\Ph\u00E1t tri\u1EC3n ph\u1EA7n m\u1EC1m h\u01B0\u1EDBng d\u1ECBch v\u1EE5\\125211_10121210_DOTHANHLONG_BTL\\125211_10121210_DoThanhLong_BTL\\API_BTL_LCN\\Controllers\\hdbController.cs",
+              "RelativeDocumentMoniker": "API_BTL_LCN\\Controllers\\hdbController.cs",
+              "ToolTip": "E:\\Ph\u00E1t tri\u1EC3n ph\u1EA7n m\u1EC1m h\u01B0\u1EDBng d\u1ECBch v\u1EE5\\125211_10121210_DOTHANHLONG_BTL\\125211_10121210_DoThanhLong_BTL\\API_BTL_LCN\\Controllers\\hdbController.cs",
+              "RelativeToolTip": "API_BTL_LCN\\Controllers\\hdbController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-10-28T02:23:32.795Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "I_hdbBUS.cs",
+              "DocumentMoniker": "E:\\Ph\u00E1t tri\u1EC3n ph\u1EA7n m\u1EC1m h\u01B0\u1EDBng d\u1ECBch v\u1EE5\\125211_10121210_DOTHANHLONG_BTL\\125211_10121210_DoThanhLong_BTL\\BUS\\interfaces\\I_hdbBUS.cs",
+              "RelativeDocumentMoniker": "BUS\\interfaces\\I_hdbBUS.cs",
+              "ToolTip": "E:\\Ph\u00E1t tri\u1EC3n ph\u1EA7n m\u1EC1m h\u01B0\u1EDBng d\u1ECBch v\u1EE5\\125211_10121210_DOTHANHLONG_BTL\\125211_10121210_DoThanhLong_BTL\\BUS\\interfaces\\I_hdbBUS.cs",
+              "RelativeToolTip": "BUS\\interfaces\\I_hdbBUS.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-10-28T02:23:32.746Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "hdbBUS.cs",
+              "DocumentMoniker": "E:\\Ph\u00E1t tri\u1EC3n ph\u1EA7n m\u1EC1m h\u01B0\u1EDBng d\u1ECBch v\u1EE5\\125211_10121210_DOTHANHLONG_BTL\\125211_10121210_DoThanhLong_BTL\\BUS\\hdbBUS.cs",
+              "RelativeDocumentMoniker": "BUS\\hdbBUS.cs",
+              "ToolTip": "E:\\Ph\u00E1t tri\u1EC3n ph\u1EA7n m\u1EC1m h\u01B0\u1EDBng d\u1ECBch v\u1EE5\\125211_10121210_DOTHANHLONG_BTL\\125211_10121210_DoThanhLong_BTL\\BUS\\hdbBUS.cs",
+              "RelativeToolTip": "BUS\\hdbBUS.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-10-28T02:23:32.69Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "I_hdbResponsitory.cs",
+              "DocumentMoniker": "E:\\Ph\u00E1t tri\u1EC3n ph\u1EA7n m\u1EC1m h\u01B0\u1EDBng d\u1ECBch v\u1EE5\\125211_10121210_DOTHANHLONG_BTL\\125211_10121210_DoThanhLong_BTL\\DAL\\interfaces\\I_hdbResponsitory.cs",
+              "RelativeDocumentMoniker": "DAL\\interfaces\\I_hdbResponsitory.cs",
+              "ToolTip": "E:\\Ph\u00E1t tri\u1EC3n ph\u1EA7n m\u1EC1m h\u01B0\u1EDBng d\u1ECBch v\u1EE5\\125211_10121210_DOTHANHLONG_BTL\\125211_10121210_DoThanhLong_BTL\\DAL\\interfaces\\I_hdbResponsitory.cs",
+              "RelativeToolTip": "DAL\\interfaces\\I_hdbResponsitory.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-10-28T02:23:32.628Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "hdbModel.cs",
+              "DocumentMoniker": "E:\\Ph\u00E1t tri\u1EC3n ph\u1EA7n m\u1EC1m h\u01B0\u1EDBng d\u1ECBch v\u1EE5\\125211_10121210_DOTHANHLONG_BTL\\125211_10121210_DoThanhLong_BTL\\Model\\hdbModel.cs",
+              "RelativeDocumentMoniker": "Model\\hdbModel.cs",
+              "ToolTip": "E:\\Ph\u00E1t tri\u1EC3n ph\u1EA7n m\u1EC1m h\u01B0\u1EDBng d\u1ECBch v\u1EE5\\125211_10121210_DOTHANHLONG_BTL\\125211_10121210_DoThanhLong_BTL\\Model\\hdbModel.cs",
+              "RelativeToolTip": "Model\\hdbModel.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-10-28T02:23:32.569Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "E:\\Ph\u00E1t tri\u1EC3n ph\u1EA7n m\u1EC1m h\u01B0\u1EDBng d\u1ECBch v\u1EE5\\125211_10121210_DOTHANHLONG_BTL\\125211_10121210_DoThanhLong_BTL\\API_BTL_LCN\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "API_BTL_LCN\\Properties\\launchSettings.json",
+              "ToolTip": "E:\\Ph\u00E1t tri\u1EC3n ph\u1EA7n m\u1EC1m h\u01B0\u1EDBng d\u1ECBch v\u1EE5\\125211_10121210_DOTHANHLONG_BTL\\125211_10121210_DoThanhLong_BTL\\API_BTL_LCN\\Properties\\launchSettings.json",
+              "RelativeToolTip": "API_BTL_LCN\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2023-10-27T09:09:48.691Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "IDatabaseHelper.cs",
+              "DocumentMoniker": "E:\\Ph\u00E1t tri\u1EC3n ph\u1EA7n m\u1EC1m h\u01B0\u1EDBng d\u1ECBch v\u1EE5\\125211_10121210_DOTHANHLONG_BTL\\125211_10121210_DoThanhLong_BTL\\DAL\\Helper\\Interfaces\\IDatabaseHelper.cs",
+              "RelativeDocumentMoniker": "DAL\\Helper\\Interfaces\\IDatabaseHelper.cs",
+              "ToolTip": "E:\\Ph\u00E1t tri\u1EC3n ph\u1EA7n m\u1EC1m h\u01B0\u1EDBng d\u1ECBch v\u1EE5\\125211_10121210_DOTHANHLONG_BTL\\125211_10121210_DoThanhLong_BTL\\DAL\\Helper\\Interfaces\\IDatabaseHelper.cs",
+              "RelativeToolTip": "DAL\\Helper\\Interfaces\\IDatabaseHelper.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAIAwwBYAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-10-27T09:01:26.768Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "DatabaseHelper.cs",
+              "DocumentMoniker": "E:\\Ph\u00E1t tri\u1EC3n ph\u1EA7n m\u1EC1m h\u01B0\u1EDBng d\u1ECBch v\u1EE5\\125211_10121210_DOTHANHLONG_BTL\\125211_10121210_DoThanhLong_BTL\\DAL\\Helper\\DatabaseHelper.cs",
+              "RelativeDocumentMoniker": "DAL\\Helper\\DatabaseHelper.cs",
+              "ToolTip": "E:\\Ph\u00E1t tri\u1EC3n ph\u1EA7n m\u1EC1m h\u01B0\u1EDBng d\u1ECBch v\u1EE5\\125211_10121210_DOTHANHLONG_BTL\\125211_10121210_DoThanhLong_BTL\\DAL\\Helper\\DatabaseHelper.cs",
+              "RelativeToolTip": "DAL\\Helper\\DatabaseHelper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADkAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-10-09T08:49:45.659Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "CollectionHelper.cs",
+              "DocumentMoniker": "E:\\Ph\u00E1t tri\u1EC3n ph\u1EA7n m\u1EC1m h\u01B0\u1EDBng d\u1ECBch v\u1EE5\\125211_10121210_DOTHANHLONG_BTL\\125211_10121210_DoThanhLong_BTL\\DAL\\Helper\\CollectionHelper.cs",
+              "RelativeDocumentMoniker": "DAL\\Helper\\CollectionHelper.cs",
+              "ToolTip": "E:\\Ph\u00E1t tri\u1EC3n ph\u1EA7n m\u1EC1m h\u01B0\u1EDBng d\u1ECBch v\u1EE5\\125211_10121210_DOTHANHLONG_BTL\\125211_10121210_DoThanhLong_BTL\\DAL\\Helper\\CollectionHelper.cs",
+              "RelativeToolTip": "DAL\\Helper\\CollectionHelper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-10-09T08:49:28.138Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "NCCController.cs",
+              "DocumentMoniker": "E:\\Ph\u00E1t tri\u1EC3n ph\u1EA7n m\u1EC1m h\u01B0\u1EDBng d\u1ECBch v\u1EE5\\125211_10121210_DOTHANHLONG_BTL\\125211_10121210_DoThanhLong_BTL\\API_BTL_LCN\\Controllers\\NCCController.cs",
+              "RelativeDocumentMoniker": "API_BTL_LCN\\Controllers\\NCCController.cs",
+              "ToolTip": "E:\\Ph\u00E1t tri\u1EC3n ph\u1EA7n m\u1EC1m h\u01B0\u1EDBng d\u1ECBch v\u1EE5\\125211_10121210_DOTHANHLONG_BTL\\125211_10121210_DoThanhLong_BTL\\API_BTL_LCN\\Controllers\\NCCController.cs",
+              "RelativeToolTip": "API_BTL_LCN\\Controllers\\NCCController.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAiwC8AAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-25T07:41:06.876Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "NCCBUS.cs",
+              "DocumentMoniker": "E:\\Ph\u00E1t tri\u1EC3n ph\u1EA7n m\u1EC1m h\u01B0\u1EDBng d\u1ECBch v\u1EE5\\125211_10121210_DOTHANHLONG_BTL\\125211_10121210_DoThanhLong_BTL\\BUS\\NCCBUS.cs",
+              "RelativeDocumentMoniker": "BUS\\NCCBUS.cs",
+              "ToolTip": "E:\\Ph\u00E1t tri\u1EC3n ph\u1EA7n m\u1EC1m h\u01B0\u1EDBng d\u1ECBch v\u1EE5\\125211_10121210_DOTHANHLONG_BTL\\125211_10121210_DoThanhLong_BTL\\BUS\\NCCBUS.cs",
+              "RelativeToolTip": "BUS\\NCCBUS.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-25T07:41:06.878Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "I_NCCBUS.cs",
+              "DocumentMoniker": "E:\\Ph\u00E1t tri\u1EC3n ph\u1EA7n m\u1EC1m h\u01B0\u1EDBng d\u1ECBch v\u1EE5\\125211_10121210_DOTHANHLONG_BTL\\125211_10121210_DoThanhLong_BTL\\BUS\\interfaces\\I_NCCBUS.cs",
+              "RelativeDocumentMoniker": "BUS\\interfaces\\I_NCCBUS.cs",
+              "ToolTip": "E:\\Ph\u00E1t tri\u1EC3n ph\u1EA7n m\u1EC1m h\u01B0\u1EDBng d\u1ECBch v\u1EE5\\125211_10121210_DOTHANHLONG_BTL\\125211_10121210_DoThanhLong_BTL\\BUS\\interfaces\\I_NCCBUS.cs",
+              "RelativeToolTip": "BUS\\interfaces\\I_NCCBUS.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-25T07:41:06.881Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "NCCResponsitory.cs",
+              "DocumentMoniker": "E:\\Ph\u00E1t tri\u1EC3n ph\u1EA7n m\u1EC1m h\u01B0\u1EDBng d\u1ECBch v\u1EE5\\125211_10121210_DOTHANHLONG_BTL\\125211_10121210_DoThanhLong_BTL\\DAL\\NCCResponsitory.cs",
+              "RelativeDocumentMoniker": "DAL\\NCCResponsitory.cs",
+              "ToolTip": "E:\\Ph\u00E1t tri\u1EC3n ph\u1EA7n m\u1EC1m h\u01B0\u1EDBng d\u1ECBch v\u1EE5\\125211_10121210_DOTHANHLONG_BTL\\125211_10121210_DoThanhLong_BTL\\DAL\\NCCResponsitory.cs",
+              "RelativeToolTip": "DAL\\NCCResponsitory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-25T07:41:06.883Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "I_NCCResponsitory.cs",
+              "DocumentMoniker": "E:\\Ph\u00E1t tri\u1EC3n ph\u1EA7n m\u1EC1m h\u01B0\u1EDBng d\u1ECBch v\u1EE5\\125211_10121210_DOTHANHLONG_BTL\\125211_10121210_DoThanhLong_BTL\\DAL\\interfaces\\I_NCCResponsitory.cs",
+              "RelativeDocumentMoniker": "DAL\\interfaces\\I_NCCResponsitory.cs",
+              "ToolTip": "E:\\Ph\u00E1t tri\u1EC3n ph\u1EA7n m\u1EC1m h\u01B0\u1EDBng d\u1ECBch v\u1EE5\\125211_10121210_DOTHANHLONG_BTL\\125211_10121210_DoThanhLong_BTL\\DAL\\interfaces\\I_NCCResponsitory.cs",
+              "RelativeToolTip": "DAL\\interfaces\\I_NCCResponsitory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-25T07:41:06.885Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "NCCModel.cs",
+              "DocumentMoniker": "E:\\Ph\u00E1t tri\u1EC3n ph\u1EA7n m\u1EC1m h\u01B0\u1EDBng d\u1ECBch v\u1EE5\\125211_10121210_DOTHANHLONG_BTL\\125211_10121210_DoThanhLong_BTL\\Model\\NCCModel.cs",
+              "RelativeDocumentMoniker": "Model\\NCCModel.cs",
+              "ToolTip": "E:\\Ph\u00E1t tri\u1EC3n ph\u1EA7n m\u1EC1m h\u01B0\u1EDBng d\u1ECBch v\u1EE5\\125211_10121210_DOTHANHLONG_BTL\\125211_10121210_DoThanhLong_BTL\\Model\\NCCModel.cs",
+              "RelativeToolTip": "Model\\NCCModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-25T07:41:06.887Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "KHController.cs",
+              "DocumentMoniker": "E:\\Ph\u00E1t tri\u1EC3n ph\u1EA7n m\u1EC1m h\u01B0\u1EDBng d\u1ECBch v\u1EE5\\125211_10121210_DOTHANHLONG_BTL\\125211_10121210_DoThanhLong_BTL\\API_BTL_LCN\\Controllers\\KHController.cs",
+              "RelativeDocumentMoniker": "API_BTL_LCN\\Controllers\\KHController.cs",
+              "ToolTip": "E:\\Ph\u00E1t tri\u1EC3n ph\u1EA7n m\u1EC1m h\u01B0\u1EDBng d\u1ECBch v\u1EE5\\125211_10121210_DOTHANHLONG_BTL\\125211_10121210_DoThanhLong_BTL\\API_BTL_LCN\\Controllers\\KHController.cs",
+              "RelativeToolTip": "API_BTL_LCN\\Controllers\\KHController.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAgwAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-25T07:41:06.889Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "KHBUS.cs",
+              "DocumentMoniker": "E:\\Ph\u00E1t tri\u1EC3n ph\u1EA7n m\u1EC1m h\u01B0\u1EDBng d\u1ECBch v\u1EE5\\125211_10121210_DOTHANHLONG_BTL\\125211_10121210_DoThanhLong_BTL\\BUS\\KHBUS.cs",
+              "RelativeDocumentMoniker": "BUS\\KHBUS.cs",
+              "ToolTip": "E:\\Ph\u00E1t tri\u1EC3n ph\u1EA7n m\u1EC1m h\u01B0\u1EDBng d\u1ECBch v\u1EE5\\125211_10121210_DOTHANHLONG_BTL\\125211_10121210_DoThanhLong_BTL\\BUS\\KHBUS.cs",
+              "RelativeToolTip": "BUS\\KHBUS.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwBIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-25T07:41:06.891Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "BUS.csproj",
+              "DocumentMoniker": "E:\\Ph\u00E1t tri\u1EC3n ph\u1EA7n m\u1EC1m h\u01B0\u1EDBng d\u1ECBch v\u1EE5\\125211_10121210_DOTHANHLONG_BTL\\125211_10121210_DoThanhLong_BTL\\BUS\\BUS.csproj",
+              "RelativeDocumentMoniker": "BUS\\BUS.csproj",
+              "ToolTip": "E:\\Ph\u00E1t tri\u1EC3n ph\u1EA7n m\u1EC1m h\u01B0\u1EDBng d\u1ECBch v\u1EE5\\125211_10121210_DOTHANHLONG_BTL\\125211_10121210_DoThanhLong_BTL\\BUS\\BUS.csproj",
+              "RelativeToolTip": "BUS\\BUS.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2023-10-08T01:50:16.522Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "I_KHBUS.cs",
+              "DocumentMoniker": "E:\\Ph\u00E1t tri\u1EC3n ph\u1EA7n m\u1EC1m h\u01B0\u1EDBng d\u1ECBch v\u1EE5\\125211_10121210_DOTHANHLONG_BTL\\125211_10121210_DoThanhLong_BTL\\BUS\\interfaces\\I_KHBUS.cs",
+              "RelativeDocumentMoniker": "BUS\\interfaces\\I_KHBUS.cs",
+              "ToolTip": "E:\\Ph\u00E1t tri\u1EC3n ph\u1EA7n m\u1EC1m h\u01B0\u1EDBng d\u1ECBch v\u1EE5\\125211_10121210_DOTHANHLONG_BTL\\125211_10121210_DoThanhLong_BTL\\BUS\\interfaces\\I_KHBUS.cs",
+              "RelativeToolTip": "BUS\\interfaces\\I_KHBUS.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-25T07:41:06.895Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "KHResponsitory.cs",
+              "DocumentMoniker": "E:\\Ph\u00E1t tri\u1EC3n ph\u1EA7n m\u1EC1m h\u01B0\u1EDBng d\u1ECBch v\u1EE5\\125211_10121210_DOTHANHLONG_BTL\\125211_10121210_DoThanhLong_BTL\\DAL\\KHResponsitory.cs",
+              "RelativeDocumentMoniker": "DAL\\KHResponsitory.cs",
+              "ToolTip": "E:\\Ph\u00E1t tri\u1EC3n ph\u1EA7n m\u1EC1m h\u01B0\u1EDBng d\u1ECBch v\u1EE5\\125211_10121210_DOTHANHLONG_BTL\\125211_10121210_DoThanhLong_BTL\\DAL\\KHResponsitory.cs",
+              "RelativeToolTip": "DAL\\KHResponsitory.cs",
+              "ViewState": "AQIAAGAAAAAAAAAAAAAAAGEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-10-28T02:23:29.818Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "I_KHResponsitory.cs",
+              "DocumentMoniker": "E:\\Ph\u00E1t tri\u1EC3n ph\u1EA7n m\u1EC1m h\u01B0\u1EDBng d\u1ECBch v\u1EE5\\125211_10121210_DOTHANHLONG_BTL\\125211_10121210_DoThanhLong_BTL\\DAL\\interfaces\\I_KHResponsitory.cs",
+              "RelativeDocumentMoniker": "DAL\\interfaces\\I_KHResponsitory.cs",
+              "ToolTip": "E:\\Ph\u00E1t tri\u1EC3n ph\u1EA7n m\u1EC1m h\u01B0\u1EDBng d\u1ECBch v\u1EE5\\125211_10121210_DOTHANHLONG_BTL\\125211_10121210_DoThanhLong_BTL\\DAL\\interfaces\\I_KHResponsitory.cs",
+              "RelativeToolTip": "DAL\\interfaces\\I_KHResponsitory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-25T07:41:06.899Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "KHModel.cs",
+              "DocumentMoniker": "E:\\Ph\u00E1t tri\u1EC3n ph\u1EA7n m\u1EC1m h\u01B0\u1EDBng d\u1ECBch v\u1EE5\\125211_10121210_DOTHANHLONG_BTL\\125211_10121210_DoThanhLong_BTL\\Model\\KHModel.cs",
+              "RelativeDocumentMoniker": "Model\\KHModel.cs",
+              "ToolTip": "E:\\Ph\u00E1t tri\u1EC3n ph\u1EA7n m\u1EC1m h\u01B0\u1EDBng d\u1ECBch v\u1EE5\\125211_10121210_DOTHANHLONG_BTL\\125211_10121210_DoThanhLong_BTL\\Model\\KHModel.cs",
+              "RelativeToolTip": "Model\\KHModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-25T07:41:06.901Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "loaiSPController.cs",
+              "DocumentMoniker": "E:\\Ph\u00E1t tri\u1EC3n ph\u1EA7n m\u1EC1m h\u01B0\u1EDBng d\u1ECBch v\u1EE5\\125211_10121210_DOTHANHLONG_BTL\\125211_10121210_DoThanhLong_BTL\\API_BTL_LCN\\Controllers\\loaiSPController.cs",
+              "RelativeDocumentMoniker": "API_BTL_LCN\\Controllers\\loaiSPController.cs",
+              "ToolTip": "E:\\Ph\u00E1t tri\u1EC3n ph\u1EA7n m\u1EC1m h\u01B0\u1EDBng d\u1ECBch v\u1EE5\\125211_10121210_DOTHANHLONG_BTL\\125211_10121210_DoThanhLong_BTL\\API_BTL_LCN\\Controllers\\loaiSPController.cs",
+              "RelativeToolTip": "API_BTL_LCN\\Controllers\\loaiSPController.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwDcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-10-04T18:42:15.774Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "loaiSPBUS.cs",
+              "DocumentMoniker": "E:\\Ph\u00E1t tri\u1EC3n ph\u1EA7n m\u1EC1m h\u01B0\u1EDBng d\u1ECBch v\u1EE5\\125211_10121210_DOTHANHLONG_BTL\\125211_10121210_DoThanhLong_BTL\\BUS\\loaiSPBUS.cs",
+              "RelativeDocumentMoniker": "BUS\\loaiSPBUS.cs",
+              "ToolTip": "E:\\Ph\u00E1t tri\u1EC3n ph\u1EA7n m\u1EC1m h\u01B0\u1EDBng d\u1ECBch v\u1EE5\\125211_10121210_DOTHANHLONG_BTL\\125211_10121210_DoThanhLong_BTL\\BUS\\loaiSPBUS.cs",
+              "RelativeToolTip": "BUS\\loaiSPBUS.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-10-04T18:37:15.196Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "I_loaiSPBUS.cs",
+              "DocumentMoniker": "E:\\Ph\u00E1t tri\u1EC3n ph\u1EA7n m\u1EC1m h\u01B0\u1EDBng d\u1ECBch v\u1EE5\\125211_10121210_DOTHANHLONG_BTL\\125211_10121210_DoThanhLong_BTL\\BUS\\interfaces\\I_loaiSPBUS.cs",
+              "RelativeDocumentMoniker": "BUS\\interfaces\\I_loaiSPBUS.cs",
+              "ToolTip": "E:\\Ph\u00E1t tri\u1EC3n ph\u1EA7n m\u1EC1m h\u01B0\u1EDBng d\u1ECBch v\u1EE5\\125211_10121210_DOTHANHLONG_BTL\\125211_10121210_DoThanhLong_BTL\\BUS\\interfaces\\I_loaiSPBUS.cs",
+              "RelativeToolTip": "BUS\\interfaces\\I_loaiSPBUS.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-10-04T18:37:04.671Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "loaiSPResponsitory.cs",
+              "DocumentMoniker": "E:\\Ph\u00E1t tri\u1EC3n ph\u1EA7n m\u1EC1m h\u01B0\u1EDBng d\u1ECBch v\u1EE5\\125211_10121210_DOTHANHLONG_BTL\\125211_10121210_DoThanhLong_BTL\\DAL\\loaiSPResponsitory.cs",
+              "RelativeDocumentMoniker": "DAL\\loaiSPResponsitory.cs",
+              "ToolTip": "E:\\Ph\u00E1t tri\u1EC3n ph\u1EA7n m\u1EC1m h\u01B0\u1EDBng d\u1ECBch v\u1EE5\\125211_10121210_DOTHANHLONG_BTL\\125211_10121210_DoThanhLong_BTL\\DAL\\loaiSPResponsitory.cs",
+              "RelativeToolTip": "DAL\\loaiSPResponsitory.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAwwDUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-10-04T18:32:03.421Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "I_loaiSPResponsitory.cs",
+              "DocumentMoniker": "E:\\Ph\u00E1t tri\u1EC3n ph\u1EA7n m\u1EC1m h\u01B0\u1EDBng d\u1ECBch v\u1EE5\\125211_10121210_DOTHANHLONG_BTL\\125211_10121210_DoThanhLong_BTL\\DAL\\interfaces\\I_loaiSPResponsitory.cs",
+              "RelativeDocumentMoniker": "DAL\\interfaces\\I_loaiSPResponsitory.cs",
+              "ToolTip": "E:\\Ph\u00E1t tri\u1EC3n ph\u1EA7n m\u1EC1m h\u01B0\u1EDBng d\u1ECBch v\u1EE5\\125211_10121210_DOTHANHLONG_BTL\\125211_10121210_DoThanhLong_BTL\\DAL\\interfaces\\I_loaiSPResponsitory.cs",
+              "RelativeToolTip": "DAL\\interfaces\\I_loaiSPResponsitory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-10-04T18:28:04.854Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "loaiSPModel.cs",
+              "DocumentMoniker": "E:\\Ph\u00E1t tri\u1EC3n ph\u1EA7n m\u1EC1m h\u01B0\u1EDBng d\u1ECBch v\u1EE5\\125211_10121210_DOTHANHLONG_BTL\\125211_10121210_DoThanhLong_BTL\\Model\\loaiSPModel.cs",
+              "RelativeDocumentMoniker": "Model\\loaiSPModel.cs",
+              "ToolTip": "E:\\Ph\u00E1t tri\u1EC3n ph\u1EA7n m\u1EC1m h\u01B0\u1EDBng d\u1ECBch v\u1EE5\\125211_10121210_DOTHANHLONG_BTL\\125211_10121210_DoThanhLong_BTL\\Model\\loaiSPModel.cs",
+              "RelativeToolTip": "Model\\loaiSPModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-10-04T18:10:03.562Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "SPController.cs",
+              "DocumentMoniker": "E:\\Ph\u00E1t tri\u1EC3n ph\u1EA7n m\u1EC1m h\u01B0\u1EDBng d\u1ECBch v\u1EE5\\125211_10121210_DOTHANHLONG_BTL\\125211_10121210_DoThanhLong_BTL\\API_BTL_LCN\\Controllers\\SPController.cs",
+              "RelativeDocumentMoniker": "API_BTL_LCN\\Controllers\\SPController.cs",
+              "ToolTip": "E:\\Ph\u00E1t tri\u1EC3n ph\u1EA7n m\u1EC1m h\u01B0\u1EDBng d\u1ECBch v\u1EE5\\125211_10121210_DOTHANHLONG_BTL\\125211_10121210_DoThanhLong_BTL\\API_BTL_LCN\\Controllers\\SPController.cs",
+              "RelativeToolTip": "API_BTL_LCN\\Controllers\\SPController.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAAwDMAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-10-04T09:18:45.162Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SPBUS.cs",
+              "DocumentMoniker": "E:\\Ph\u00E1t tri\u1EC3n ph\u1EA7n m\u1EC1m h\u01B0\u1EDBng d\u1ECBch v\u1EE5\\125211_10121210_DOTHANHLONG_BTL\\125211_10121210_DoThanhLong_BTL\\BUS\\SPBUS.cs",
+              "RelativeDocumentMoniker": "BUS\\SPBUS.cs",
+              "ToolTip": "E:\\Ph\u00E1t tri\u1EC3n ph\u1EA7n m\u1EC1m h\u01B0\u1EDBng d\u1ECBch v\u1EE5\\125211_10121210_DOTHANHLONG_BTL\\125211_10121210_DoThanhLong_BTL\\BUS\\SPBUS.cs",
+              "RelativeToolTip": "BUS\\SPBUS.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAowCYAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-10-04T09:12:26.251Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "I_SPBUS.cs",
+              "DocumentMoniker": "E:\\Ph\u00E1t tri\u1EC3n ph\u1EA7n m\u1EC1m h\u01B0\u1EDBng d\u1ECBch v\u1EE5\\125211_10121210_DOTHANHLONG_BTL\\125211_10121210_DoThanhLong_BTL\\BUS\\interfaces\\I_SPBUS.cs",
+              "RelativeDocumentMoniker": "BUS\\interfaces\\I_SPBUS.cs",
+              "ToolTip": "E:\\Ph\u00E1t tri\u1EC3n ph\u1EA7n m\u1EC1m h\u01B0\u1EDBng d\u1ECBch v\u1EE5\\125211_10121210_DOTHANHLONG_BTL\\125211_10121210_DoThanhLong_BTL\\BUS\\interfaces\\I_SPBUS.cs",
+              "RelativeToolTip": "BUS\\interfaces\\I_SPBUS.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABMAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-10-04T09:12:16.018Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SPResponsitory.cs",
+              "DocumentMoniker": "E:\\Ph\u00E1t tri\u1EC3n ph\u1EA7n m\u1EC1m h\u01B0\u1EDBng d\u1ECBch v\u1EE5\\125211_10121210_DOTHANHLONG_BTL\\125211_10121210_DoThanhLong_BTL\\DAL\\SPResponsitory.cs",
+              "RelativeDocumentMoniker": "DAL\\SPResponsitory.cs",
+              "ToolTip": "E:\\Ph\u00E1t tri\u1EC3n ph\u1EA7n m\u1EC1m h\u01B0\u1EDBng d\u1ECBch v\u1EE5\\125211_10121210_DOTHANHLONG_BTL\\125211_10121210_DoThanhLong_BTL\\DAL\\SPResponsitory.cs",
+              "RelativeToolTip": "DAL\\SPResponsitory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACgAAABdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-10-04T08:37:55.265Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "I_SPResponsitory.cs",
+              "DocumentMoniker": "E:\\Ph\u00E1t tri\u1EC3n ph\u1EA7n m\u1EC1m h\u01B0\u1EDBng d\u1ECBch v\u1EE5\\125211_10121210_DOTHANHLONG_BTL\\125211_10121210_DoThanhLong_BTL\\DAL\\interfaces\\I_SPResponsitory.cs",
+              "RelativeDocumentMoniker": "DAL\\interfaces\\I_SPResponsitory.cs",
+              "ToolTip": "E:\\Ph\u00E1t tri\u1EC3n ph\u1EA7n m\u1EC1m h\u01B0\u1EDBng d\u1ECBch v\u1EE5\\125211_10121210_DOTHANHLONG_BTL\\125211_10121210_DoThanhLong_BTL\\DAL\\interfaces\\I_SPResponsitory.cs",
+              "RelativeToolTip": "DAL\\interfaces\\I_SPResponsitory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-10-04T08:35:44.144Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "SPModel.cs",
+              "DocumentMoniker": "E:\\Ph\u00E1t tri\u1EC3n ph\u1EA7n m\u1EC1m h\u01B0\u1EDBng d\u1ECBch v\u1EE5\\125211_10121210_DOTHANHLONG_BTL\\125211_10121210_DoThanhLong_BTL\\Model\\SPModel.cs",
+              "RelativeDocumentMoniker": "Model\\SPModel.cs",
+              "ToolTip": "E:\\Ph\u00E1t tri\u1EC3n ph\u1EA7n m\u1EC1m h\u01B0\u1EDBng d\u1ECBch v\u1EE5\\125211_10121210_DOTHANHLONG_BTL\\125211_10121210_DoThanhLong_BTL\\Model\\SPModel.cs",
+              "RelativeToolTip": "Model\\SPModel.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAAA4AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-10-04T08:33:22.628Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "NVController.cs",
+              "DocumentMoniker": "E:\\Ph\u00E1t tri\u1EC3n ph\u1EA7n m\u1EC1m h\u01B0\u1EDBng d\u1ECBch v\u1EE5\\125211_10121210_DOTHANHLONG_BTL\\125211_10121210_DoThanhLong_BTL\\API_BTL_LCN\\Controllers\\NVController.cs",
+              "RelativeDocumentMoniker": "API_BTL_LCN\\Controllers\\NVController.cs",
+              "ToolTip": "E:\\Ph\u00E1t tri\u1EC3n ph\u1EA7n m\u1EC1m h\u01B0\u1EDBng d\u1ECBch v\u1EE5\\125211_10121210_DOTHANHLONG_BTL\\125211_10121210_DoThanhLong_BTL\\API_BTL_LCN\\Controllers\\NVController.cs",
+              "RelativeToolTip": "API_BTL_LCN\\Controllers\\NVController.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAqwAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-10-04T06:53:46.11Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "NVBUS.cs",
+              "DocumentMoniker": "E:\\Ph\u00E1t tri\u1EC3n ph\u1EA7n m\u1EC1m h\u01B0\u1EDBng d\u1ECBch v\u1EE5\\125211_10121210_DOTHANHLONG_BTL\\125211_10121210_DoThanhLong_BTL\\BUS\\NVBUS.cs",
+              "RelativeDocumentMoniker": "BUS\\NVBUS.cs",
+              "ToolTip": "E:\\Ph\u00E1t tri\u1EC3n ph\u1EA7n m\u1EC1m h\u01B0\u1EDBng d\u1ECBch v\u1EE5\\125211_10121210_DOTHANHLONG_BTL\\125211_10121210_DoThanhLong_BTL\\BUS\\NVBUS.cs",
+              "RelativeToolTip": "BUS\\NVBUS.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAkwA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-10-04T06:48:57.348Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "I_NVBUS.cs",
+              "DocumentMoniker": "E:\\Ph\u00E1t tri\u1EC3n ph\u1EA7n m\u1EC1m h\u01B0\u1EDBng d\u1ECBch v\u1EE5\\125211_10121210_DOTHANHLONG_BTL\\125211_10121210_DoThanhLong_BTL\\BUS\\interfaces\\I_NVBUS.cs",
+              "RelativeDocumentMoniker": "BUS\\interfaces\\I_NVBUS.cs",
+              "ToolTip": "E:\\Ph\u00E1t tri\u1EC3n ph\u1EA7n m\u1EC1m h\u01B0\u1EDBng d\u1ECBch v\u1EE5\\125211_10121210_DOTHANHLONG_BTL\\125211_10121210_DoThanhLong_BTL\\BUS\\interfaces\\I_NVBUS.cs",
+              "RelativeToolTip": "BUS\\interfaces\\I_NVBUS.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAABAAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-10-04T06:46:25.028Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "NVResponsitory.cs",
+              "DocumentMoniker": "E:\\Ph\u00E1t tri\u1EC3n ph\u1EA7n m\u1EC1m h\u01B0\u1EDBng d\u1ECBch v\u1EE5\\125211_10121210_DOTHANHLONG_BTL\\125211_10121210_DoThanhLong_BTL\\DAL\\NVResponsitory.cs",
+              "RelativeDocumentMoniker": "DAL\\NVResponsitory.cs",
+              "ToolTip": "E:\\Ph\u00E1t tri\u1EC3n ph\u1EA7n m\u1EC1m h\u01B0\u1EDBng d\u1ECBch v\u1EE5\\125211_10121210_DOTHANHLONG_BTL\\125211_10121210_DoThanhLong_BTL\\DAL\\NVResponsitory.cs",
+              "RelativeToolTip": "DAL\\NVResponsitory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-10-04T06:02:28.273Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "I_NVResponsitory.cs",
+              "DocumentMoniker": "E:\\Ph\u00E1t tri\u1EC3n ph\u1EA7n m\u1EC1m h\u01B0\u1EDBng d\u1ECBch v\u1EE5\\125211_10121210_DOTHANHLONG_BTL\\125211_10121210_DoThanhLong_BTL\\DAL\\interfaces\\I_NVResponsitory.cs",
+              "RelativeDocumentMoniker": "DAL\\interfaces\\I_NVResponsitory.cs",
+              "ToolTip": "E:\\Ph\u00E1t tri\u1EC3n ph\u1EA7n m\u1EC1m h\u01B0\u1EDBng d\u1ECBch v\u1EE5\\125211_10121210_DOTHANHLONG_BTL\\125211_10121210_DoThanhLong_BTL\\DAL\\interfaces\\I_NVResponsitory.cs",
+              "RelativeToolTip": "DAL\\interfaces\\I_NVResponsitory.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA0AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-10-04T05:57:42.277Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "NVModel.cs",
+              "DocumentMoniker": "E:\\Ph\u00E1t tri\u1EC3n ph\u1EA7n m\u1EC1m h\u01B0\u1EDBng d\u1ECBch v\u1EE5\\125211_10121210_DOTHANHLONG_BTL\\125211_10121210_DoThanhLong_BTL\\Model\\NVModel.cs",
+              "RelativeDocumentMoniker": "Model\\NVModel.cs",
+              "ToolTip": "E:\\Ph\u00E1t tri\u1EC3n ph\u1EA7n m\u1EC1m h\u01B0\u1EDBng d\u1ECBch v\u1EE5\\125211_10121210_DOTHANHLONG_BTL\\125211_10121210_DoThanhLong_BTL\\Model\\NVModel.cs",
+              "RelativeToolTip": "Model\\NVModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-10-04T05:55:03.945Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "E:\\Ph\u00E1t tri\u1EC3n ph\u1EA7n m\u1EC1m h\u01B0\u1EDBng d\u1ECBch v\u1EE5\\125211_10121210_DOTHANHLONG_BTL\\125211_10121210_DoThanhLong_BTL\\API_BTL_LCN\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "API_BTL_LCN\\Controllers\\AccountController.cs",
+              "ToolTip": "E:\\Ph\u00E1t tri\u1EC3n ph\u1EA7n m\u1EC1m h\u01B0\u1EDBng d\u1ECBch v\u1EE5\\125211_10121210_DOTHANHLONG_BTL\\125211_10121210_DoThanhLong_BTL\\API_BTL_LCN\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "API_BTL_LCN\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAQwDAAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-10-02T09:53:23.646Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\Ph\u00E1t tri\u1EC3n ph\u1EA7n m\u1EC1m h\u01B0\u1EDBng d\u1ECBch v\u1EE5\\125211_10121210_DOTHANHLONG_BTL\\125211_10121210_DoThanhLong_BTL\\API_BTL_LCN\\appsettings.json",
+              "RelativeDocumentMoniker": "API_BTL_LCN\\appsettings.json",
+              "ToolTip": "E:\\Ph\u00E1t tri\u1EC3n ph\u1EA7n m\u1EC1m h\u01B0\u1EDBng d\u1ECBch v\u1EE5\\125211_10121210_DOTHANHLONG_BTL\\125211_10121210_DoThanhLong_BTL\\API_BTL_LCN\\appsettings.json",
+              "RelativeToolTip": "API_BTL_LCN\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2023-10-02T09:50:41.511Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Ph\u00E1t tri\u1EC3n ph\u1EA7n m\u1EC1m h\u01B0\u1EDBng d\u1ECBch v\u1EE5\\125211_10121210_DOTHANHLONG_BTL\\125211_10121210_DoThanhLong_BTL\\API_BTL_LCN\\Program.cs",
+              "RelativeDocumentMoniker": "API_BTL_LCN\\Program.cs",
+              "ToolTip": "E:\\Ph\u00E1t tri\u1EC3n ph\u1EA7n m\u1EC1m h\u01B0\u1EDBng d\u1ECBch v\u1EE5\\125211_10121210_DOTHANHLONG_BTL\\125211_10121210_DoThanhLong_BTL\\API_BTL_LCN\\Program.cs",
+              "RelativeToolTip": "API_BTL_LCN\\Program.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAkwBkAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-10-02T09:48:36.777Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Model.csproj",
+              "DocumentMoniker": "E:\\Ph\u00E1t tri\u1EC3n ph\u1EA7n m\u1EC1m h\u01B0\u1EDBng d\u1ECBch v\u1EE5\\125211_10121210_DOTHANHLONG_BTL\\125211_10121210_DoThanhLong_BTL\\Model\\Model.csproj",
+              "RelativeDocumentMoniker": "Model\\Model.csproj",
+              "ToolTip": "E:\\Ph\u00E1t tri\u1EC3n ph\u1EA7n m\u1EC1m h\u01B0\u1EDBng d\u1ECBch v\u1EE5\\125211_10121210_DOTHANHLONG_BTL\\125211_10121210_DoThanhLong_BTL\\Model\\Model.csproj",
+              "RelativeToolTip": "Model\\Model.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2023-10-02T09:46:04.473Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "AccountBUS.cs",
+              "DocumentMoniker": "E:\\Ph\u00E1t tri\u1EC3n ph\u1EA7n m\u1EC1m h\u01B0\u1EDBng d\u1ECBch v\u1EE5\\125211_10121210_DOTHANHLONG_BTL\\125211_10121210_DoThanhLong_BTL\\BUS\\AccountBUS.cs",
+              "RelativeDocumentMoniker": "BUS\\AccountBUS.cs",
+              "ToolTip": "E:\\Ph\u00E1t tri\u1EC3n ph\u1EA7n m\u1EC1m h\u01B0\u1EDBng d\u1ECBch v\u1EE5\\125211_10121210_DOTHANHLONG_BTL\\125211_10121210_DoThanhLong_BTL\\BUS\\AccountBUS.cs",
+              "RelativeToolTip": "BUS\\AccountBUS.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAkwDQAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-10-02T09:45:33.238Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "I_AccountBUS.cs",
+              "DocumentMoniker": "E:\\Ph\u00E1t tri\u1EC3n ph\u1EA7n m\u1EC1m h\u01B0\u1EDBng d\u1ECBch v\u1EE5\\125211_10121210_DOTHANHLONG_BTL\\125211_10121210_DoThanhLong_BTL\\BUS\\interfaces\\I_AccountBUS.cs",
+              "RelativeDocumentMoniker": "BUS\\interfaces\\I_AccountBUS.cs",
+              "ToolTip": "E:\\Ph\u00E1t tri\u1EC3n ph\u1EA7n m\u1EC1m h\u01B0\u1EDBng d\u1ECBch v\u1EE5\\125211_10121210_DOTHANHLONG_BTL\\125211_10121210_DoThanhLong_BTL\\BUS\\interfaces\\I_AccountBUS.cs",
+              "RelativeToolTip": "BUS\\interfaces\\I_AccountBUS.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAqwBIAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-10-02T09:43:51.008Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "AccountResponsitory.cs",
+              "DocumentMoniker": "E:\\Ph\u00E1t tri\u1EC3n ph\u1EA7n m\u1EC1m h\u01B0\u1EDBng d\u1ECBch v\u1EE5\\125211_10121210_DOTHANHLONG_BTL\\125211_10121210_DoThanhLong_BTL\\DAL\\AccountResponsitory.cs",
+              "RelativeDocumentMoniker": "DAL\\AccountResponsitory.cs",
+              "ToolTip": "E:\\Ph\u00E1t tri\u1EC3n ph\u1EA7n m\u1EC1m h\u01B0\u1EDBng d\u1ECBch v\u1EE5\\125211_10121210_DOTHANHLONG_BTL\\125211_10121210_DoThanhLong_BTL\\DAL\\AccountResponsitory.cs",
+              "RelativeToolTip": "DAL\\AccountResponsitory.cs",
+              "ViewState": "AQIAAJoAAAAAAAAAAAAUwKgAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-10-02T09:33:04.458Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "I_AccountRespository.cs",
+              "DocumentMoniker": "E:\\Ph\u00E1t tri\u1EC3n ph\u1EA7n m\u1EC1m h\u01B0\u1EDBng d\u1ECBch v\u1EE5\\125211_10121210_DOTHANHLONG_BTL\\125211_10121210_DoThanhLong_BTL\\DAL\\interfaces\\I_AccountRespository.cs",
+              "RelativeDocumentMoniker": "DAL\\interfaces\\I_AccountRespository.cs",
+              "ToolTip": "E:\\Ph\u00E1t tri\u1EC3n ph\u1EA7n m\u1EC1m h\u01B0\u1EDBng d\u1ECBch v\u1EE5\\125211_10121210_DOTHANHLONG_BTL\\125211_10121210_DoThanhLong_BTL\\DAL\\interfaces\\I_AccountRespository.cs",
+              "RelativeToolTip": "DAL\\interfaces\\I_AccountRespository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-10-02T09:31:19.41Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "accountModel.cs",
+              "DocumentMoniker": "E:\\Ph\u00E1t tri\u1EC3n ph\u1EA7n m\u1EC1m h\u01B0\u1EDBng d\u1ECBch v\u1EE5\\125211_10121210_DOTHANHLONG_BTL\\125211_10121210_DoThanhLong_BTL\\Model\\accountModel.cs",
+              "RelativeDocumentMoniker": "Model\\accountModel.cs",
+              "ToolTip": "E:\\Ph\u00E1t tri\u1EC3n ph\u1EA7n m\u1EC1m h\u01B0\u1EDBng d\u1ECBch v\u1EE5\\125211_10121210_DOTHANHLONG_BTL\\125211_10121210_DoThanhLong_BTL\\Model\\accountModel.cs",
+              "RelativeToolTip": "Model\\accountModel.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABcAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-10-02T09:23:22.276Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+E:\Phát triển phần mềm hướng dịch vụ\125211_10121210_DOTHANHLONG_BTL\125211_10121210_DoThanhLong_BTL\BUS\bin\Debug\net6.0\BUS.deps.json
+E:\Phát triển phần mềm hướng dịch vụ\125211_10121210_DOTHANHLONG_BTL\125211_10121210_DoThanhLong_BTL\BUS\bin\Debug\net6.0\BUS.dll
+E:\Phát triển phần mềm hướng dịch vụ\125211_10121210_DOTHANHLONG_BTL\125211_10121210_DoThanhLong_BTL\BUS\bin\Debug\net6.0\BUS.pdb
+E:\Phát triển phần mềm hướng dịch vụ\125211_10121210_DOTHANHLONG_BTL\125211_10121210_DoThanhLong_BTL\BUS\bin\Debug\net6.0\DAL.dll
+E:\Phát triển phần mềm hướng dịch vụ\125211_10121210_DOTHANHLONG_BTL\125211_10121210_DoThanhLong_BTL\BUS\bin\Debug\net6.0\Model.dll
+E:\Phát triển phần mềm hướng dịch vụ\125211_10121210_DOTHANHLONG_BTL\125211_10121210_DoThanhLong_BTL\BUS\bin\Debug\net6.0\DAL.pdb
+E:\Phát triển phần mềm hướng dịch vụ\125211_10121210_DOTHANHLONG_BTL\125211_10121210_DoThanhLong_BTL\BUS\bin\Debug\net6.0\Model.pdb
+E:\Phát triển phần mềm hướng dịch vụ\125211_10121210_DOTHANHLONG_BTL\125211_10121210_DoThanhLong_BTL\BUS\obj\Debug\net6.0\BUS.csproj.AssemblyReference.cache
+E:\Phát triển phần mềm hướng dịch vụ\125211_10121210_DOTHANHLONG_BTL\125211_10121210_DoThanhLong_BTL\BUS\obj\Debug\net6.0\BUS.GeneratedMSBuildEditorConfig.editorconfig
+E:\Phát triển phần mềm hướng dịch vụ\125211_10121210_DOTHANHLONG_BTL\125211_10121210_DoThanhLong_BTL\BUS\obj\Debug\net6.0\BUS.AssemblyInfoInputs.cache
+E:\Phát triển phần mềm hướng dịch vụ\125211_10121210_DOTHANHLONG_BTL\125211_10121210_DoThanhLong_BTL\BUS\obj\Debug\net6.0\BUS.AssemblyInfo.cs
+E:\Phát triển phần mềm hướng dịch vụ\125211_10121210_DOTHANHLONG_BTL\125211_10121210_DoThanhLong_BTL\BUS\obj\Debug\net6.0\BUS.csproj.CoreCompileInputs.cache
+E:\Phát triển phần mềm hướng dịch vụ\125211_10121210_DOTHANHLONG_BTL\125211_10121210_DoThanhLong_BTL\BUS\obj\Debug\net6.0\BUS.dll
+E:\Phát triển phần mềm hướng dịch vụ\125211_10121210_DOTHANHLONG_BTL\125211_10121210_DoThanhLong_BTL\BUS\obj\Debug\net6.0\refint\BUS.dll
+E:\Phát triển phần mềm hướng dịch vụ\125211_10121210_DOTHANHLONG_BTL\125211_10121210_DoThanhLong_BTL\BUS\obj\Debug\net6.0\BUS.pdb
+E:\Phát triển phần mềm hướng dịch vụ\125211_10121210_DOTHANHLONG_BTL\125211_10121210_DoThanhLong_BTL\BUS\obj\Debug\net6.0\ref\BUS.dll
+E:\Phát triển phần mềm hướng dịch vụ\125211_10121210_DOTHANHLONG_BTL\125211_10121210_DoThanhLong_BTL\BUS\obj\Debug\net6.0\BUS.csproj.Up2Date
